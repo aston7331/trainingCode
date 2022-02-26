@@ -1,4 +1,4 @@
-let n =6;
+let n =5;
 let string ="";
 
 for(let i=1; i<=n; i++){
@@ -6,7 +6,7 @@ for(let i=1; i<=n; i++){
     //     string += " ";
     // }
     for(let k=1; k<=i; k++){
-        string +=i-k+"";
+        string +=i-k+1 +" ";
     }
     string += "\n";
 }

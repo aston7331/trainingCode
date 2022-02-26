@@ -6,4 +6,4 @@ function getLargest(a,b){
         return b;
     }
 }
-console.log(getLargest(1,2));
+console.log(getLargest(4,2));

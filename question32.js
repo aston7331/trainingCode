@@ -9,7 +9,7 @@ for(i=n; i>0; i--){
                 continue;
             }else{
                 if(j>n){
-                    string += j+ "";
+                    string += (2*n)-j+ "";
                 }else{
                     string += j+"";
                 }

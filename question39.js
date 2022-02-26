@@ -1,4 +1,4 @@
-let n=10;
+let n=7;
 let string ="";
 count =0;
 

@@ -2,19 +2,19 @@ let n =5;
 let string ="";
 for(i=1; i<=n; i++){
     for(j=1; j<i; j++){
-        string +=" ";
+        string +="  ";
     }
     for(k=1; k<i; k++){
-        string += "*";
+        string += " *";
     }
     string += "\n";
 }
 for(i=0; i<=n-1; i++){
-    for(j=1; j<n-i; j++){
-        string +=" ";
+    for(j=0; j<n-i; j++){
+        string +="  ";
     }
     for(k=0; k<n-i; k++){
-        string += "*";
+        string += " *";
     }
     string += "\n";
 }

@@ -1,0 +1,96 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.form{
+    width: 100%;
+    background-color: rgb(153, 153, 153);
+    text-align: center;
+    
+}
+.js{
+    width: 50%;
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 400px;
+    border:solid 2px  rgb(0, 0, 0);
+    height: 500px;
+}
+.name{
+    width: 93%;
+    margin-top: 20px;
+    padding-left: 65px;
+    background-color: darkgray;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
+.password{
+    width: 94%;
+    margin-top: 20px;
+    padding-left: 55px;
+    background-color: darkgray;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.confirmPassword{
+    width: 97%;
+    margin-top: 20px;
+    padding-left: 25px;
+    background-color: darkgray;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.date{
+    width: 100%;
+    margin-top: 20px;
+    padding-left: 40px;
+    background-color: darkgray;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.email{
+    width: 100%;
+    margin-top: 20px;
+    padding-left: 64px;
+    background-color: darkgray;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.gender{
+    width: 100%;
+    margin-top: 20px;
+    padding-left: 1px;
+    background-color: darkgray;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.country{
+    width: 100%;
+    margin-top: 20px;
+    padding-left: 33px;
+    background-color: darkgray;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.state{
+    width: 100%;
+    margin-top: 20px;
+    padding-left: 62px;
+    background-color: darkgray;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.phoneNumber{
+    width: 100%;
+    margin-top: 20px;
+    padding-left: 30px;
+    background-color: darkgray;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.button{
+    width: 20%;
+    margin-top: 50px;
+    margin-left: 30pz;
+}
